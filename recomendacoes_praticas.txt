@@ -1,0 +1,37 @@
+SISTEMA DE RECOMENDAÇÃO DE PRODUTOS
+======================================================================
+
+Quando o cliente compra: Pão, Leite
+Recomende:
+  → Manteiga (Confiança: 61.5%, Lift: 2.80)
+
+Quando o cliente compra: Manteiga
+Recomende:
+  → Pão, Leite (Confiança: 72.7%, Lift: 2.80)
+  → Pão (Confiança: 100.0%, Lift: 2.50)
+  → Leite (Confiança: 72.7%, Lift: 1.91)
+
+Quando o cliente compra: Café
+Recomende:
+  → Leite (Confiança: 100.0%, Lift: 2.63)
+
+Quando o cliente compra: Manteiga, Leite
+Recomende:
+  → Pão (Confiança: 100.0%, Lift: 2.50)
+
+Quando o cliente compra: Queijo
+Recomende:
+  → Pão (Confiança: 80.0%, Lift: 2.00)
+
+Quando o cliente compra: Pão, Manteiga
+Recomende:
+  → Leite (Confiança: 72.7%, Lift: 1.91)
+
+Quando o cliente compra: Leite
+Recomende:
+  → Pão (Confiança: 68.4%, Lift: 1.71)
+
+Quando o cliente compra: Pão
+Recomende:
+  → Leite (Confiança: 65.0%, Lift: 1.71)
+
