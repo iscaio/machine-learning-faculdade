@@ -33,5 +33,6 @@ O projeto está dividido em duas etapas principais:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone git clone https://github.com/iscaio/machine-learning-faculdade.git
+
    ```
